@@ -3,11 +3,11 @@
 <h1 align="center">Hi 👋, I'm Aldahir</h1>
 <h3 align="center">A passionate computer engineering student</h3>
 
-- 🌱 I’m currently learning **Neural networks, NoSQL databases**
+🌱 I’m currently learning: Neural networks, NoSQL databases
 
-- 📫 How to reach me **aldahirlopez07@gmail.com**
+ 📫 How to reach me: aldahirlopez07@gmail.com
 
-- ⚡ Fun fact **I love Formula 1 🏎️ **
+ ⚡ Fun fact: I love Formula 1 🏎️ 
 <h3>Connect with me:</h3>
 
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aldahir-lopez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aldahir-lopez/" height="30" width="40" /></a>
