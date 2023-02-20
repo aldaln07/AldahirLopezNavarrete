@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aldahir</h1>
 <h3 align="center">A passionate computer engineering student</h3>
 
-<img src=<iframe src="https://giphy.com/embed/smzfl3E7a4iHK" width="456" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a  href="https://giphy.com/gifs/smzfl3E7a4iHK">via GIPHY</a></p> />
+<img src=<iframe src="https://giphy.com/embed/smzfl3E7a4iHK" width="456"/>
 - 🌱 I’m currently learning **Neural networks, NoSQL databases**
 
 - 📫 How to reach me **aldahirlopez07@gmail.com**
