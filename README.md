@@ -3,13 +3,9 @@
 
 - 🌱 I’m currently learning **Neural networks, NoSQL databases**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AldahirLopezNavarrete](https://github.com/AldahirLopezNavarrete)
-
-- 💬 Ask me about **python, java**
-
 - 📫 How to reach me **aldahirlopez07@gmail.com**
 
-- ⚡ Fun fact **I love to play tennis**
+- ⚡ Fun fact **I love Formula 1**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
