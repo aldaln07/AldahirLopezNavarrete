@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<img src="https://media2.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif?cid=ecf05e47i0h2t2xq492q84vws0a6isycoq29gx6p77v8gwuy&rid=giphy.gif&ct=g" width=400 height=200/>
+<img src="https://media2.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif?cid=ecf05e47i0h2t2xq492q84vws0a6isycoq29gx6p77v8gwuy&rid=giphy.gif&ct=g" width=400 height=300/>
 
 <h1 align="center">Hi 👋, I'm Aldahir</h1>
 <h3 align="center">A passionate computer engineering student</h3>
