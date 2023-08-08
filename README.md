@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Aldahir</h1>
 <h3 align="center">A passionate computer engineering student</h3>
 
-🌱 I’m currently learning: visionOS and spatial computing.
+🌱 I’m currently learning: Business Intelligence and Visualization of information
 
  📫 How to reach me: aldahirlopez07@gmail.com
 
