@@ -6,8 +6,6 @@
 
 🌱 I’m currently learning: Machine Learning
 
- 📫 How to reach me: aldahirlopez07@gmail.com
-
  ⚡ Fun fact: I love Formula 1 🏎️ 
 <!--<h3>Connect with me:</h3>
 
